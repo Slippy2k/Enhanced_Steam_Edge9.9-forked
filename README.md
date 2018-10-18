@@ -1,9 +1,11 @@
-Enhanced Steam
+Enhanced Steam for Microsoft Edge
 ==============
 
-Enhanced Steam is an open-source Google Chrome browser extension.  
+Enhanced Steam is an open-source Microsoft Edge browser extension.  
 
 **Please note, development of this project has ended.  [You can read more about Enhanced Steam's end of life here.](http://www.enhancedsteam.com/blog/?p=256)**
+
+If you are looking for the Chrome version, you can find it here https://github.com/jshackles/Enhanced_Steam.
 
 If you are looking for the Firefox version, you can find it here
 https://github.com/jshackles/Enhanced_Steam_Firefox.
@@ -22,17 +24,20 @@ Features
 
 Installation
 ------------
+##### ~~Automatic~~
+~~Click [here](https://www.enhancedsteam.com/download/) and follow the instructions~~
 
-##### Automatic
-Click [here](https://www.enhancedsteam.com/download/) and follow the instructions
+~~_(Not Working? Try [The Chrome Web Store](https://chrome.google.com/webstore/detail/enhanced-steam/okadibdjfemgnhjiembecghcbfknbfhg) and just click "Add to Chrome")_~~
 
-_(Not Working? Try [The Chrome Web Store](https://chrome.google.com/webstore/detail/enhanced-steam/okadibdjfemgnhjiembecghcbfknbfhg) and just click "Add to Chrome")_
 
 ##### Manual
 1. Clone this repo to a folder. You can choose either the [master / stable](https://github.com/jshackles/Enhanced_Steam/tree/master) or [dev / unstable](https://github.com/jshackles/Enhanced_Steam/tree/dev) branch.
-2. Open the 'Extensions' tab in Chrome's Settings.
-3. Tick 'Developer Mode' in the top right corner of the screen.
-4. Click 'Load unpacked extension...' and navigate to the cloned repo.
+2. ~~Open the 'Extensions' tab in Chrome's Settings.~~
+3. ~~Tick 'Developer Mode' in the top right corner of the screen.~~
+4. ~~Click 'Load unpacked extension...' and navigate to the cloned repo.~~
+
+https://docs.microsoft.com/en-au/microsoft-edge/extensions/guides/adding-and-removing-extensions#adding-an-extension
+
 5. Enjoy using Enhanced Steam!
 
 Translators

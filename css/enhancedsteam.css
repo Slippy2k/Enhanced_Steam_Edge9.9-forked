@@ -1375,7 +1375,7 @@ input[type=checkbox].es_dlc_selection:checked + label {
 	position: absolute;
 	top: 4px;
 	left: 4px;
-	background: no-repeat url("chrome-extension://__MSG_@@extension_id__/img/pinn.png");
+	background: no-repeat url("ms-browser-extension://__MSG_@@extension_id__/img/pinn.png");
 }
 .wishlistRow:hover .es_wishlist_note {
 	color: #EEEEEE;
@@ -1426,13 +1426,13 @@ input[type=checkbox].es_dlc_selection:checked + label {
  * add_birthday_celebration()
  **************************************/
 .es_birthday #logo_holder img {
-	background: url("chrome-extension://__MSG_@@extension_id__/img/birthday_logo_bg.gif") no-repeat;
+	background: url("ms-browser-extension://__MSG_@@extension_id__/img/birthday_logo_bg.gif") no-repeat;
 	padding: 30px 10px 30px 10px;
 	margin-top: -30px;
 	margin-left: -10px;
 }
 .es_birthday.es_store_front #global_header:before {
-	background: url("chrome-extension://__MSG_@@extension_id__/img/birthday_bg.png") repeat-x;
+	background: url("ms-browser-extension://__MSG_@@extension_id__/img/birthday_bg.png") repeat-x;
 	content: "";
 	display: block;
 	position: absolute;
@@ -1538,7 +1538,7 @@ input[type=checkbox].es_dlc_selection:checked + label {
 }
 .es_regional_icon {
 	padding-left: 23px !important;
-	background: no-repeat url("chrome-extension://__MSG_@@extension_id__/img/flags/world.png") 8px 8px !important;
+	background: no-repeat url("ms-browser-extension://__MSG_@@extension_id__/img/flags/world.png") 8px 8px !important;
 }
 .es_regional_icon.price {
 	padding-left: 30px !important;

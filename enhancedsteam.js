@@ -2033,9 +2033,9 @@ function add_enhanced_steam_options() {
 					<a class="popup_menu_item" target="_blank" href="${ chrome.extension.getURL("options.html") }">${ localized_strings.thewordoptions }</a>
 					<a class="popup_menu_item" id="es_clear_cache" href="#clear_cache">${ localized_strings.clear_cache }</a>
 					<div class="hr"></div>
-					<a class="popup_menu_item" target="_blank" href="` + protocol + `//github.com/jshackles/Enhanced_Steam">${ localized_strings.contribute }</a>
+					<a class="popup_menu_item" target="_blank" href="` + protocol + `//github.com/nobelharvards/Enhanced_Steam">${ localized_strings.contribute }</a>
 					<a class="popup_menu_item" target="_blank" href="` + protocol + `//translation.enhancedsteam.com">${ localized_strings.translate }</a>
-					<a class="popup_menu_item" target="_blank" href="` + protocol + `//github.com/jshackles/Enhanced_Steam/issues">${ localized_strings.bug_feature }</a>
+					<a class="popup_menu_item" target="_blank" href="` + protocol + `//github.com/nobelharvards/Enhanced_Steam/issues">${ localized_strings.bug_feature }</a>
 					<div class="hr"></div>
 					<a class="popup_menu_item" target="_blank" href="` + protocol + `//www.enhancedsteam.com">${ localized_strings.website }</a>
 					<a class="popup_menu_item" target="_blank" href="` + protocol + `//${ localized_strings.official_group_url }">${ localized_strings.official_group }</a>
